@@ -41,12 +41,19 @@
 
 - 업종 별 결제 데이터 분석
 
-- 음식배달 호출 정보 데이터 분석
+<img src="https://user-images.githubusercontent.com/109687076/184573084-a1d1f817-da9a-43e6-aa1b-a0902ed0ad09.JPG" width="50%"><img src="https://user-images.githubusercontent.com/109687076/184573087-db17e248-5108-4a4e-84cd-3cc29ec8d52b.JPG" width="50%">
+<img src="https://user-images.githubusercontent.com/109687076/184573090-29bef140-ad65-4297-8a18-12cedab5f73a.JPG" width="50%"><img src="https://user-images.githubusercontent.com/109687076/184573081-8add3137-6aac-4179-8b2c-1ca873fe7c4a.JPG" width="50%">
 
 - COVID-19와 KT 데이터 분석
 
+<img src="https://user-images.githubusercontent.com/109687076/184573250-27f89acc-9976-4c13-a488-d7686a3e829f.JPG" width="50%"><img src="https://user-images.githubusercontent.com/109687076/184573251-c662ce29-054c-48bb-b326-a2685aa20b48.JPG" width="50%">
+<img src="https://user-images.githubusercontent.com/109687076/184573254-91c9abb0-e3ff-4a2e-a14a-dca189cab7b9.JPG" width="50%"><img src="https://user-images.githubusercontent.com/109687076/184573256-9fd7efa3-bfa2-457f-be73-5e827115099d.JPG" width="50%">
+<img src="https://user-images.githubusercontent.com/109687076/184573257-c5f25194-7e50-4718-a038-b2a40ba6dd83.JPG" width="50%"><img src="https://user-images.githubusercontent.com/109687076/184573259-6e757502-43ae-4417-b6d8-05a657afcf6a.JPG" width="50%">
+<img src="https://user-images.githubusercontent.com/109687076/184573248-2d7fa67f-7f77-4319-900c-edd28474cb91.JPG" width="50%">
+
 - K-means Clustering
 
+<img src="https://user-images.githubusercontent.com/109687076/184573357-f328de58-57d0-425e-a34e-84b9365053a2.JPG" width="50%"><img src="https://user-images.githubusercontent.com/109687076/184573361-997eaacd-f8d8-4d1c-9de9-c2b3629b2f07.JPG" width="50%">
 
 
 ## 5. Git
